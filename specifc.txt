@@ -1,0 +1,17 @@
+commit 3d0c2033b1d09ed66cdc3f982e7f0875917d3f5a
+Author: enrigle <enrigle@gmail.com>
+Date:   Sun Aug 27 15:51:00 2017 +0200
+
+    added gitignore
+
+commit a2b2fd98d6776b1a7cf2106eda5421aa3e3ca75b
+Author: enrigle <enrigle@gmail.com>
+Date:   Sun Aug 27 13:48:37 2017 +0200
+
+    added two files
+
+commit af6da34e1053b0be676f70d78188ad9bf9cb7310
+Author: enrigle <enrigle@gmail.com>
+Date:   Sun Aug 27 13:36:29 2017 +0200
+
+    added readme.txt
