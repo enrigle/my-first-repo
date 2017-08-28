@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-sdasdasd
-=======
-add to jorge's branch
->>>>>>> jorge
